@@ -48,7 +48,8 @@ temp->next=n;
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/0e39aa45-c383-4511-bb21-a1a0a45d2d43)
+![image](https://github.com/user-attachments/assets/35063d17-0a43-4cb8-bc4f-63a05b22e6df)
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
